@@ -1,0 +1,1 @@
+A dashboard made to display information about the weather, current time, and crypto currency to the user as a chrome extension. This was created as part of the Front End Path at scrimba.com
